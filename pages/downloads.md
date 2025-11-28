@@ -99,8 +99,8 @@ NEN Norm</a>.
 ---
 
 Hosting provided by
-<a href='https://digigo.nu' class='link dim underline-hover blue'>
-DigiGo</a>.  
+<a href='https://www.nen.nl' class='link dim underline-hover blue'>
+NEN</a>.  
 Publication website by
 <a href='https://crow.nl' class='link dim underline-hover blue'>
 CROW</a>.
