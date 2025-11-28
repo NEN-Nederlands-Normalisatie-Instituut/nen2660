@@ -46,4 +46,4 @@ NEN 2660-2:2022</a>.
 
 You may discuss implementation and usage on GitHub at 
 <a href='{{ site.repo }}/discussions/' class='link'>
-nl-digigo/nen2660</a>.
+nen-nederlands-normalisatie-instituut/nen2660</a>.
